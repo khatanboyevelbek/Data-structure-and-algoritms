@@ -33,7 +33,7 @@
     {
         static void Main(string[] args)
         {
-            int[] numbers = new int[] { 4, -7, 5, -12 };
+            int[] numbers = new int[] { 4, -7, 5, -12 , -3};
             SelectionSort.Sort(numbers);
 
             for(int i = 0; i < numbers.Length;i++)
