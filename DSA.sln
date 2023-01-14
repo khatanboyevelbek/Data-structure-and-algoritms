@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibraries", "ClassLibr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{1A57DD11-EC24-4AB3-AEE9-5A8491BD37AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericList", "GenericList\GenericList.csproj", "{1F9EEFD3-E599-4709-A17B-DC59A427CF7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericList", "GenericList\GenericList.csproj", "{1F9EEFD3-E599-4709-A17B-DC59A427CF7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "SortedList\SortedList.csproj", "{55096415-8868-4557-8792-89DA2C04C3FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortedList", "SortedList\SortedList.csproj", "{55096415-8868-4557-8792-89DA2C04C3FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{99877962-0564-4598-A298-86C07A51E748}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{55096415-8868-4557-8792-89DA2C04C3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55096415-8868-4557-8792-89DA2C04C3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55096415-8868-4557-8792-89DA2C04C3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99877962-0564-4598-A298-86C07A51E748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99877962-0564-4598-A298-86C07A51E748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99877962-0564-4598-A298-86C07A51E748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99877962-0564-4598-A298-86C07A51E748}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
